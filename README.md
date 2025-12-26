@@ -1,28 +1,35 @@
 # On-Chain Market Behavior Analysis (Bitcoin)
 
-This project analyzes Bitcoin price behavior using historical market data to identify trends and potential insights for crypto investors.
+## Executive Summary
 
-## Tools Used
+This project analyzes Bitcoin’s market behavior using historical price and trading volume data to identify trends, volatility patterns, and market signals. By applying time-series analysis, rolling statistics, and correlation techniques, the study highlights how trading activity influences price movements.
+
+Key findings show that increased trading volume often coincides with heightened volatility and significant price shifts. Short-term moving averages respond quickly to market changes, while long-term averages provide insight into broader market trends.
+
+This analysis demonstrates practical skills in data extraction, cleaning, feature engineering, visualization, and insight generation—core competencies required for crypto and financial data analyst roles.
+
+## Objective
+To analyze Bitcoin market behavior using historical price and trading volume data and uncover patterns related to volatility and trend movements.
+
+## Tools & Technologies
 - Python
 - Pandas
 - Matplotlib
 - Google Colab
 - CoinGecko API
 
-## Data Source
+## Data Sources
 - CoinGecko API (Bitcoin market data)
 
-## Objective
-To understand Bitcoin price movement and prepare for deeper on-chain analysis in future stages.
+## Methodology
+- Data collection and cleaning
+- Feature engineering (returns, volatility, moving averages)
+- Time-series visualization
+- Correlation analysis
 
-## Analysis Performed
-- Collected Bitcoin price and trading volume data
-- Merged datasets for time-series analysis
-- Visualized price vs volume trends
-- Conducted correlation analysis to identify market behavior patterns
+## Key Insights
+- Price and volume show meaningful interaction during high-volatility periods.
+- Short-term volatility captures rapid market reactions.
+- Moving averages help identify potential trend reversals.
 
-## Advanced Analysis
-- Calculated daily returns and market volatility
-- Identified short-term and long-term trends using moving averages
-- Visualized volatility spikes and trend shifts
-- Generated insights useful for trading and risk assessment
+## Files Structure
