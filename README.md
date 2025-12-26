@@ -20,3 +20,9 @@ To understand Bitcoin price movement and prepare for deeper on-chain analysis in
 - Merged datasets for time-series analysis
 - Visualized price vs volume trends
 - Conducted correlation analysis to identify market behavior patterns
+
+## Advanced Analysis
+- Calculated daily returns and market volatility
+- Identified short-term and long-term trends using moving averages
+- Visualized volatility spikes and trend shifts
+- Generated insights useful for trading and risk assessment
