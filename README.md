@@ -31,5 +31,3 @@ To analyze Bitcoin market behavior using historical price and trading volume dat
 - Price and volume show meaningful interaction during high-volatility periods.
 - Short-term volatility captures rapid market reactions.
 - Moving averages help identify potential trend reversals.
-
-## Files Structure
