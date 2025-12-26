@@ -14,3 +14,9 @@ This project analyzes Bitcoin price behavior using historical market data to ide
 
 ## Objective
 To understand Bitcoin price movement and prepare for deeper on-chain analysis in future stages.
+
+## Analysis Performed
+- Collected Bitcoin price and trading volume data
+- Merged datasets for time-series analysis
+- Visualized price vs volume trends
+- Conducted correlation analysis to identify market behavior patterns
